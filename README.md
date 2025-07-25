@@ -40,4 +40,4 @@ Add/Remove doctors
 
 View and manage users and appointments
 
-Demo link:https://drive.google.com/file/d/1E_t8_jNqv2OqdwVzfMlTF88DFvvQ18Jo/view?usp=sharing
+Demo link:https://prescripto-frontend-javc.onrender.com/
